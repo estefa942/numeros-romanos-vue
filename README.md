@@ -1,6 +1,4 @@
-# mercadolibre
 
-> consumo de la api de mercadolibre
 
 ## Build Setup
 
